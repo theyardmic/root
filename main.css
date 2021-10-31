@@ -32,6 +32,7 @@ body {
 body {
 background-image:url("Athelstan.jpg");
 	background-repeat:no-repeat;
+	background-size:cover;
 }
 
 ol, ul {
