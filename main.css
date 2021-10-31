@@ -33,6 +33,7 @@ body {
 background-image:url("Athelstan.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
+	background:linear-gradient( rgba(0, 0, 0.3));
 }
 
 ol, ul {
