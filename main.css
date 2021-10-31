@@ -29,8 +29,9 @@ footer, header, hgroup, menu, nav, section {
 
 body {
   line-height: 1; }
-body {
+body.is-preload {
 background-image:url("Athelstan.jpg");
+	background-repeat:no-repeat;
 }
 
 ol, ul {
