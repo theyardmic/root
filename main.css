@@ -29,6 +29,9 @@ footer, header, hgroup, menu, nav, section {
 
 body {
   line-height: 1; }
+body {
+background-image:url("Athelstan.jpg");
+}
 
 ol, ul {
   list-style: none; }
